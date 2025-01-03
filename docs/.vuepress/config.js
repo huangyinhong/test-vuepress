@@ -1,6 +1,6 @@
 module.exports = {
   // 网站的一些基本配置
-  base: '/test-docs/', // 配置部署站点的基础路径
+  base: '/test-vuepress/', // 配置部署站点的基础路径
   lang: 'zh-CN',
   title: '在线文档', // 网站的标题
   description: '工作，学习相关文档', // 网站的描述，它将会以 <meta> 标签渲染到当前页面的 HTML 中。
